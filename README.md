@@ -1,4 +1,4 @@
-# Mips
+# Catch game
 Mips simple game
 1.	How to Run 
 1)	Assemble MIPS
